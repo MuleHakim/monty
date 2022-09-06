@@ -447,7 +447,7 @@
 </ul>
 
   <h4 class="task">
-    16. Holberton
+    16. Brainf*ck
       <span class="alert alert-info mandatory-optional">
         #advanced
       </span>
@@ -457,10 +457,10 @@
   <!-- Progress vs Score -->
 
 <!-- Task Body -->
-  <p>Write a Brainf*ck script that prints <code>Holberton</code>, followed by a new line.</p>
+  <p>Write a Brainf*ck script that prints <code>School</code>, followed by a new line.</p>
 
 <ul>
-<li>All your Brainf*ck files should be stored inside the <code>brainfuck</code> sub directory</li>
+<li>All your Brainf*ck files should be stored inside the <code>bf</code> sub directory</li>
 <li>You can install the <code>bf</code> interpreter to test your code: <code>sudo apt-get install bf</code></li>
 <li>Read: <a href="https://en.wikipedia.org/wiki/Brainfuck">Brainf*ck</a> </li>
 </ul>
