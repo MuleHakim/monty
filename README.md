@@ -515,9 +515,6 @@
 
 <!-- Task Body -->
   <p>Multiply two digits given by the user.<br />
-<br />
-<img src="http://mein-fun.com/data/media/5/brainfuck_bean.jpg" /><br />
-<br /></p>
 
 <ul>
 <li>Read the two digits from stdin, multiply them, and print the result, followed by a new line</li>
